@@ -1,5 +1,5 @@
-# MyNodeJSAppDeploymentToDocker
-Build , Test and Deploy simple Node.js application to docker as Image 
+### MyNodeJSAppDeploymentToDocker
+* Build , Test and Deploy simple Node.js application to docker as Image 
 For this application to run successfully make sure that you heve created a rspoistry on Docker Hub  
 Configure your credentials in your local jenkins installation as global credentails  
 Updte ID of the global credentials in Jenkinsfile at below line  
