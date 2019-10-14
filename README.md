@@ -5,5 +5,5 @@ Configure your credentials in your local jenkins installation as global credenta
 Updte ID of the global credentials in Jenkinsfile at below line  
 In below case dockerhub is ID you must change with yours  
 'https://registry.hub.docker.com', 'dockerhub'  
-Also change name of the rspository with yours
+Also change name of the rspository with yours  
 def app = docker.build("amarjeety/myrepository:${commit_id}", '.').push()
