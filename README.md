@@ -7,7 +7,7 @@
 ````csharp  
 'https://registry.hub.docker.com', 'dockerhub'  
 ````   
-5. Also change name of the rspository with yours  
+5. Also change name of the repository with yours  
 
 ````csharp  
 def app = docker.build("amarjeety/myrepository:${commit_id}", '.').push()
