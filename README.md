@@ -1,4 +1,4 @@
-### MyNodeJSAppDeploymentToDocker
+### MyNodeJSAppDeploymentToDockerHub
 * Build , Test and Deploy simple Node.js application to docker as Image  
 1. For this application to run successfully make sure that you heve created a rspoistry on Docker Hub  
 2. Configure your credentials in your local jenkins installation as global credentails  
